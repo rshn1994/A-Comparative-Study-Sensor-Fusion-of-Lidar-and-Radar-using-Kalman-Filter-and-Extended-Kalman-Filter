@@ -1,10 +1,6 @@
-The project has been forked from  https://github.com/arsalan311/fusion-ekf/commit/ef91a249ce343017f11e502534ce1b4353a0aac8
-
 This version is the comparison of working of Kalman and Extended kalman Filter.
 
-
-
-This is an extended Kalman Filter implementation in C++ for fusing lidar and radar sensor measurements.
+This is an extended Kalman Filter implementation in python for fusing lidar and radar sensor measurements.
 A Kalman filter can be used anywhere you have uncertain information about some dynamic system, 
 and you want to make an educated guess about what the system is going to do next. 
 
@@ -35,5 +31,3 @@ Example:
 R 8.60363 0.0290616 -2.99903  1477010443399637  8.6 0.25  -3.00029  0
 L 8.45  0.25  1477010443349642  8.45  0.25  -3.00027  0 
 ```
-
-# [Here's the repository for the C++ Version](https://github.com/mithi/Fusion-EKF-CPP)
